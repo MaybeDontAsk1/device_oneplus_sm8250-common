@@ -8,6 +8,10 @@
     "target_path" : "kernel/oneplus/sm8250"
   },
   {
+    "repository"  : "vendor_ih8sn",
+    "target_path" : "vendor/ih8sn"
+  },
+  {
     "repository"  : "vendor_oneplus",
     "target_path" : "vendor/oneplus"
   }
