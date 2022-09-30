@@ -12,6 +12,12 @@
     "target_path" : "vendor/oneplus/sm8250-common"
   },
   {
+    "remote"      : "gitlab",
+    "repository"  : "anierin.t.bliss/vendor_google_camera",
+    "clone-depth" : "1",
+    "target_path" : "vendor/google/camera"
+  },
+  {
     "repository"  : "vendor_ih8sn",
     "target_path" : "vendor/ih8sn"
   }
